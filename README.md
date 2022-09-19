@@ -13,6 +13,11 @@ Application URL link;
 http://127.0.0.1:5500/activity/index.html
 
 
+
+![module 1 website](activity/assets/images/website.png)
+
+
+
 ## Acceptance Criteria
 
 * WHEN I view the source code
