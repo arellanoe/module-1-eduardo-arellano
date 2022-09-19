@@ -14,8 +14,9 @@ http://127.0.0.1:5500/activity/index.html
 
 
 
-![module 1 website](activity/assets/images/website.png)
+![module 1 website top](activity/assets/images/website.png)
 
+![module 1 website bottom](activity/assets/images/website2.png)
 
 
 ## Acceptance Criteria
